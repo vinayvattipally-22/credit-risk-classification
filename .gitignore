@@ -1,0 +1,44 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment-related files
+.env
+
+# Ignore virtual environment folders
+venv/
+env/
+env_bak/
+
+# Ignore data and model files
+data/
+models/
+
+# Ignore system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore user-specific IDE configurations
+.idea/
+.vscode/
+
+# Ignore compiled code or binaries
+*.pyc
+*.pyo
+*.pyd
+*.class
+*.o
+*.a
+*.exe
+*.dll
+*.so
+*.out
+*.lib
+*.app
+
+# Ignore file is created with the help of gitignore.io
